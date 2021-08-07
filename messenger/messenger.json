@@ -22,7 +22,7 @@
     },
 
     "latest": {
-        "alpha": "-1",
+        "alpha": "a0.0.1",
         "beta": "b0.1.2",
         "stable": "-1"
     },
