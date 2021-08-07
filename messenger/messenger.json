@@ -51,8 +51,10 @@
             "update_type": "creation",
             "build_name": "Alpha Zero",
             "build_info": "Creation",
+            "state": "disabled",
             "comments": [
-
+                "state=disabled; cannot utilize this version of the application (security & compatabilirt issues)",
+                "version discontinued."
             ]
         },
 
@@ -61,8 +63,9 @@
             "update_type": "feature",
             "build_name": "Beta One",
             "build_info": "UI Update",
+            "state": "valid",
             "comments": [
-                
+                "consider updating to the newer version (UI updates)"
             ]
         },
 
@@ -71,6 +74,7 @@
             "update_type": "feature",
             "build_name": "Beta 1.2",
             "build_info": "Communications Update",
+            "state": "valid",
             "comments": [
                 
             ]
