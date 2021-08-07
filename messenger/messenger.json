@@ -1,17 +1,21 @@
 {
-    "alpha": {
-        "b_id": "c6750ebd31d73bb403a2c73ea1591ba48c6ff2cf5e228b2475f93f032630416c",
-        "b_v": "x"
+
+    "c6750ebd31d73bb403a2c73ea1591ba48c6ff2cf5e228b2475f93f032630416c": {
+        "c": "alpha",
+        "ind": false,
+        "b_v": "a"
     },
     
-    "beta": {
-        "b_id": "c935ac79a0688716dbac3f1e518c2f15b4acc7ed191a2157c529f344ec960e5b",
-        "b_v": "0"
+    "c935ac79a0688716dbac3f1e518c2f15b4acc7ed191a2157c529f344ec960e5b": {
+        "c": "beta",
+        "ind": false,
+        "b_v": "b"
     },
 
-    "stable": {
-        "b_id": "56a2bc5a5e04247cc01767848ec9824362bde74cba8797ddcef3202fff73f125",
-        "b_v": "y"
+    "56a2bc5a5e04247cc01767848ec9824362bde74cba8797ddcef3202fff73f125": {
+        "c": "stable",
+        "ind": true,
+        "b_v": "s"
     },
 
     "latest": {
@@ -21,7 +25,6 @@
     },
 
     "booleans": {
-        "ts": true,
-        "ind": false
+        "ts": true
     }
 }
