@@ -53,8 +53,10 @@
             "build_info": "Creation",
             "state": "disabled",
             "comments": [
-                "state=disabled; cannot utilize this version of the application (security & compatabilirt issues)",
-                "version discontinued."
+                "STATE=DISABLED; cannot utilize this version of the application.",
+                "Version discontinued.",
+                "Update application to start.",
+                "This version is marked as an 'alpha' version"
             ]
         },
 
@@ -65,7 +67,8 @@
             "build_info": "UI Update",
             "state": "valid",
             "comments": [
-                "consider updating to the newer version (UI updates)"
+                "Consider updating to the newer version (UI updates) for a better and more reliable experience.",
+                "This version is marked as a 'beta' version"
             ]
         },
 
@@ -76,7 +79,7 @@
             "build_info": "Communications Update",
             "state": "valid",
             "comments": [
-                
+                "This version is marked as a 'beta' version"
             ]
         }
     }
