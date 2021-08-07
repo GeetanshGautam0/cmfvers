@@ -21,6 +21,7 @@
     },
 
     "booleans": {
-        "ts": true
+        "ts": true,
+        "ind": false
     }
 }
