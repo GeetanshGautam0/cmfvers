@@ -1,7 +1,22 @@
 {
-  "version": {
-    "build": "0.1",
-    "version": "b3.1",
-    "tolSub": true
+  "map": {
+    "a": "alpha",
+    "b": "beta",
+    "v": "stable"
+  },
+  "alpha": {
+    "any_avail":  false,
+    "latest":     "a-1.-1.-1",
+    "build":      "x00.00.00.00"
+  },
+  "beta": {
+    "any_avail":  true,
+    "latest":     "b3.1.2",
+    "build":      "x01.01.00.03"
+  },
+  "stable": {
+    "any_avail":  false,
+    "latest":     "v-1.-1.-1",
+    "build":      "x00.00.00.00"
   }
 }
