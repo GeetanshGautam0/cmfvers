@@ -7,16 +7,39 @@
   "alpha": {
     "any_avail":  false,
     "latest":     "a-1.-1.-1",
-    "build":      "x00.00.00.00"
+    "build":      "x00.00.00.00",
+    "versions":   []
   },
   "beta": {
     "any_avail":  true,
     "latest":     "b3.1.2",
-    "build":      "x01.01.00.03"
+    "build":      "x01.01.00.03",
+    "versions":   [
+        "b3.1.2"
+    ]
   },
   "stable": {
     "any_avail":  false,
     "latest":     "v-1.-1.-1",
-    "build":      "x00.00.00.00"
+    "build":      "x00.00.00.00",
+    "versions":   []
+  },
+  "notes": {
+    "alpha": {
+      
+    },
+    "beta": {
+      "b3.1.2": {
+        "warning" : [
+          "This version is a beta version; expect to encounter some bugs"
+        ],
+        "info": [
+          "As a beta user, you are expected to report any bugs you find using the 'bug report url'."
+        ]
+      }
+    },
+    "version": {
+
+    }
   }
 }
